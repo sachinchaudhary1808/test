@@ -43,7 +43,7 @@
 
           } 
 	  # inputs.nixvim.nixosModules.nixvim
-	  /*  ./nixos/nixvim.nix */
+	   ./nixos/nixvim.nix 
 	  ./nixos/home-manager.nix
 
         ];
